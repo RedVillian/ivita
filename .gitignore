@@ -41,3 +41,10 @@
 
 # other
 *.iws
+
+# IntelliJ
+*.iml
+.idea/
+
+# Grails?
+grailsw*
