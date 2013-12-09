@@ -1,0 +1,8 @@
+#sidebar
+{
+    float: left;
+    width: 15%;
+    background: #abbf78;
+    min-height: 100%;
+    overflow: hidden;
+}
